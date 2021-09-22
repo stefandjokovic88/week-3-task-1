@@ -423,7 +423,7 @@ button:hover {
 
     .center {
         order: 2;
-        margin: 0 auto;
+        margin: 48px auto 0 auto;
         min-width: 0;
     }
 
